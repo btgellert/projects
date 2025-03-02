@@ -7,6 +7,6 @@ I developed a mobile application for a personal trainer client. Users have acces
 **University projects**
 
 Weather app - Idojaro.zip
-_The app is in hungarian._
+ (_The app is in hungarian._)
 
 Batman's assets management app - Batman_feleves.zip
