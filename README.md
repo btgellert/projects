@@ -8,6 +8,5 @@ I developed a mobile application for a fictional personal trainer client. Users 
 **University projects**
 
 Weather app - Idojaro.zip
- (_The app is in hungarian._)
 
 Batman's assets management app - Batman_feleves.zip
